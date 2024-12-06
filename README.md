@@ -1,5 +1,10 @@
 # Parspec Assignment 2 - PDF Classifier
 
+## Huggingface live hosted website:
+```
+https://huggingface.co/spaces/ashuguptahere/parspec-assignment-2
+```
+
 ## 📥 Installation:
 
 ### Install [uv](https://docs.astral.sh/uv/getting-started/installation/) for linux:
@@ -28,11 +33,11 @@ jupyter notebook preprocess_and_train.ipynb
 gradio app.py
 ```
 
-## Result:
+## 📊 Result:
 ![Result1](assets/screenshot.png)
 ![Result2](assets/screenshot2.png)
 
-## Answers/Report:
+## 📝 Answers:
 Answers to assignment's questions is available here [ANSWERS.md](ANSWERS.md)
 
 ## 🤝 Contributing:
