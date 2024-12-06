@@ -32,6 +32,9 @@ gradio app.py
 ![Result1](assets/screenshot.png)
 ![Result2](assets/screenshot2.png)
 
+## Answers/Report:
+Answers to assignment's questions is available here [ANSWERS.md](ANSWERS.md)
+
 ## 🤝 Contributing:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
