@@ -29,7 +29,8 @@ gradio app.py
 ```
 
 ## Result:
-![Result](assets/screenshot.png)
+![Result1](assets/screenshot.png)
+![Result2](assets/screenshot2.png)
 
 ## 🤝 Contributing:
 
